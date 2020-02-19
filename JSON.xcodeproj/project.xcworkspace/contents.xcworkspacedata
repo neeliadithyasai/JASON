@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:JASON.xcodeproj">
+      location = "self:/Users/macstudent/Desktop/JASON/JSON.xcodeproj">
    </FileRef>
 </Workspace>
